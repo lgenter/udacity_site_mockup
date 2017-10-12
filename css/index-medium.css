@@ -1,0 +1,45 @@
+.header {
+  display: inline;
+  vertical-align: baseline;
+}
+
+.logo {
+  /*display: inline-flex;*/
+  max-width: 100px;
+  vertical-align: baseline;
+}
+
+.nav {
+  vertical-align: text-top;
+  float: right;
+  text-align: right;
+  padding-top: 20px;
+  padding-right: 30px;
+}
+
+.featured_header {
+  padding: 30px;
+}
+
+.featured_items {
+  display: inline-block;
+  text-align: center;
+  /*padding: 15px;*/
+  width: 33%;
+  height: 30%;
+  position: relative;
+}
+
+.featured_text {
+  text-align: center;
+  line-height: 10px;
+}
+
+.featured_images {
+  width: 90%;
+  height: 100%;
+}
+
+.lake {
+  float: right;
+}

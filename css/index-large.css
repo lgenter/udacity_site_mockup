@@ -1,0 +1,40 @@
+h1 {
+  font-family: proxima-nova, sans-serif;
+  font-style: normal;
+  color: #4D6877;
+  font-size: 5em;
+  letter-spacing: 30px;
+  margin-bottom: 10px;
+  font-weight: 300;
+}
+
+h2 {
+  font-family: proxima-nova, sans-serif;
+  font-style: normal;
+  color: #377199;
+  font-size: 3em;
+  letter-spacing: 15px;
+  font-weight: 300;
+}
+
+h3 {
+  font-family: proxima-nova, sans-serif;
+  font-style: normal;
+  color: #4D6877;
+  font-size: 30px;
+  font-weight: 300;
+}
+
+h4 {
+  font-family: proxima-nova, sans-serif;
+  font-style: normal;
+  color: #818689;
+  font-size: 25px;
+  letter-spacing: 10px;
+  font-weight: 300;
+  margin-top: 10px;
+}
+
+.logo {
+  padding-top: 90px;
+}

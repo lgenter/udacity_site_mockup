@@ -1,0 +1,115 @@
+* {
+  box-sizing: border-box;
+  max-width: 100vw;
+}
+
+/*Fonts*/
+
+h1 {
+  font-family: proxima-nova, sans-serif;
+  font-style: normal;
+  color: #4D6877;
+  font-size: 35px;
+  letter-spacing: 30px;
+  font-weight: 300;
+}
+
+h2 {
+  font-family: proxima-nova, sans-serif;
+  font-style: normal;
+  color: #377199;
+  font-size: 25px;
+  letter-spacing: 15px;
+  font-weight: 300;
+}
+
+h3 {
+  font-family: proxima-nova, sans-serif;
+  font-style: normal;
+  color: #4D6877;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+h4 {
+  font-family: proxima-nova, sans-serif;
+  font-style: normal;
+  color: #818689;
+  font-size: 25px;
+  letter-spacing: 10px;
+  font-weight: 300;
+}
+
+p {
+  font-family: proxima-nova, sans-serif;
+  font-style: normal;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.header {
+  display: block;
+  text-align: center;
+  vertical-align: baseline;
+}
+
+.logo {
+  max-width: 100px;
+  padding-top: 50px;
+}
+
+.nav {
+  vertical-align: text-top;
+  float: right;
+  padding-top: 20px;
+  padding-right: 30px;
+}
+
+.divider {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.stars {
+  width: 100%;
+  height: 500px;
+  background-image: url("../images/levi-price-35655.jpg");
+  background-size: cover;
+  position: relative;
+}
+
+.featured {
+  text-align: center;
+}
+
+.featured_header {
+  padding: 30px;
+  text-align: center;
+}
+
+.featured_items {
+  display: block;
+  text-align: center;
+  width: 100%;
+  height: 30%;
+  position: relative;
+}
+
+.featured_images {
+  width: 100%;
+  height: 100%;
+}
+
+.featured_text {
+  text-align: center;
+  line-height: 10px;
+}
+
+.featured_padding_bottom {
+  padding-bottom: 40px;
+}
+
+
+.lake {
+  float: right;
+}
