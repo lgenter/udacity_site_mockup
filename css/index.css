@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  max-width: 100vw;
+  max-width: 100%;
 }
 
 /*Fonts*/
@@ -47,6 +47,8 @@ p {
   font-weight: 300;
 }
 
+/*Header*/
+
 .header {
   display: block;
   text-align: center;
@@ -60,7 +62,6 @@ p {
 
 .nav {
   vertical-align: text-top;
-  float: right;
   padding-top: 20px;
   padding-right: 30px;
 }
@@ -70,6 +71,8 @@ p {
   padding-bottom: 50px;
 }
 
+/*Banner*/
+
 .stars {
   width: 100%;
   height: 500px;
@@ -77,6 +80,8 @@ p {
   background-size: cover;
   position: relative;
 }
+
+/*Featured*/
 
 .featured {
   text-align: center;
@@ -91,13 +96,7 @@ p {
   display: block;
   text-align: center;
   width: 100%;
-  height: 30%;
   position: relative;
-}
-
-.featured_images {
-  width: 100%;
-  height: 100%;
 }
 
 .featured_text {
@@ -107,9 +106,4 @@ p {
 
 .featured_padding_bottom {
   padding-bottom: 40px;
-}
-
-
-.lake {
-  float: right;
 }
