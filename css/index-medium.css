@@ -1,17 +1,15 @@
 .header {
-  display: inline;
-  vertical-align: baseline;
+  display: flex;
+  justify-content: space-between;
 }
 
 .logo {
-  /*display: inline-flex;*/
   max-width: 100px;
   vertical-align: baseline;
 }
 
 .nav {
   vertical-align: text-top;
-  float: right;
   text-align: right;
   padding-top: 20px;
   padding-right: 30px;
@@ -22,11 +20,9 @@
 }
 
 .featured_items {
-  display: inline-block;
-  text-align: center;
-  /*padding: 15px;*/
-  width: 33%;
-  height: 30%;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
   position: relative;
 }
 
@@ -37,9 +33,5 @@
 
 .featured_images {
   width: 90%;
-  height: 100%;
-}
-
-.lake {
-  float: right;
+  height: auto;
 }
