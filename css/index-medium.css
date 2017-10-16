@@ -21,6 +21,7 @@
 
 .featured_items {
   display: flex;
+  flex-wrap: nowrap;
   justify-content: space-between;
   width: 100%;
   position: relative;
