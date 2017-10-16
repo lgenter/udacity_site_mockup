@@ -15,11 +15,11 @@
   padding-right: 30px;
 }
 
-.featured_header {
+.featured-header {
   padding: 30px;
 }
 
-.featured_items {
+.featured-items {
   display: flex;
   flex-wrap: nowrap;
   justify-content: space-between;
@@ -27,12 +27,12 @@
   position: relative;
 }
 
-.featured_text {
+.featured-text {
   text-align: center;
   line-height: 10px;
 }
 
-.featured_images {
+.featured-images {
   width: 90%;
   height: auto;
 }
