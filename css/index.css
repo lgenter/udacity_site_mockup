@@ -89,12 +89,12 @@ p {
   text-align: center;
 }
 
-.featured_header {
+.featured-header {
   padding: 30px;
   text-align: center;
 }
 
-.featured_items {
+.featured-items {
   display: flex;
   flex-wrap: wrap;
   text-align: center;
@@ -102,11 +102,11 @@ p {
   position: relative;
 }
 
-.featured_text {
+.featured-text {
   text-align: center;
   line-height: 10px;
 }
 
-.featured_padding_bottom {
+.featured-padding-bottom {
   padding-bottom: 40px;
 }
