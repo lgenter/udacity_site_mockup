@@ -50,7 +50,9 @@ p {
 /*Header*/
 
 .header {
-  display: block;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
   text-align: center;
   vertical-align: baseline;
 }
@@ -93,7 +95,8 @@ p {
 }
 
 .featured_items {
-  display: block;
+  display: flex;
+  flex-wrap: wrap;
   text-align: center;
   width: 100%;
   position: relative;
